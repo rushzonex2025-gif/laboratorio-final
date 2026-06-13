@@ -1,12 +1,12 @@
 package laboratoriofinal;
 
-public class Cliente {
+public class cliente {
 	    private int idCliente;
 	    private String nombre;
 	    private String direccion;
 	    private String telefono;
 
-	    public Cliente(int id, String nombre, String tel) {
+	    public cliente(int id, String nombre, String tel) {
 	        this.idCliente = id;
 	        this.nombre = nombre;
 	        this.telefono = tel;

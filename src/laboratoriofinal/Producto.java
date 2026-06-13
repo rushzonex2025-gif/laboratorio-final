@@ -44,4 +44,4 @@ public class Producto {
 	        return "Producto{" + "id=" + idProducto + ", nombre='" + nombre + "', precioVenta=" + precioVenta + "}";
 	    }
 	}
-}
+

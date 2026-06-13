@@ -19,5 +19,10 @@ public class Categoria {
 	    public String toString() {
 	        return "Categoria{" + "id=" + idCategoria + ", nombre='" + nombre + "'}";
 	    }
+
+		public Object getPrecioVenta() {
+			// TODO Auto-generated method stub
+			return null;
+		}
 	}
-}
+
